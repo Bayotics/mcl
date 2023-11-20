@@ -8,7 +8,7 @@ const About = () => {
             </div> */}
             <div className="about-content flex justify-between mt-12 gap-16">
                 <div className="about-content-img w-1/2">
-                    <img src={AboutImg} alt="about landing" className="h-full" />
+                    <img src={AboutImg} alt="about landing" className="h-full about-landing-page-pic" />
                 </div>
                 <div className="about-content-captions border-l w-1/2 py-10 pl-16">
                     <div className="about-content-caption-inner">
